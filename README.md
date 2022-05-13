@@ -1,6 +1,6 @@
 {
 
-  "versionCode": "11","apkUrl": "https://play.google.com/store/apps/details?id=org.icorevpn.ph.net",
+  "newVersion": "11","apkUrl": "https://play.google.com/store/apps/details?id=org.icorevpn.ph.net",
 "versionNotes":"
 ° Fixed SSL + Payload
 ° Fixed Import Export
