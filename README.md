@@ -1,3 +1,3 @@
-{ "versionCode": "28", "url": "https://play.google.com/store/apps/details?id=org.icorevpn.ph.net", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP 28" }
-
-
+eyJ2ZXJzaW9uQ29kZSI6IjExIiwiTWVzc2FnZSI6ImZpeCBhbGwgcGF5bG9hZCIsInVybCI6Imh0
+dHBzOlwvXC9wbGF5Lmdvb2dsZS5jb21cL3N0b3JlXC9hcHBzXC9kZXRhaWxzP2lkPW9yZy5pY29y
+ZXZwbi5waC5uZXQifQ==
